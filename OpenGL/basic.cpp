@@ -2,7 +2,6 @@
 #include <GLFW/glfw3.h>
 #include <iostream>
 
-
 // Função para inicializar GLFW e criar uma janela
 GLFWwindow* initializeGLFW() {
     if (!glfwInit()) {
